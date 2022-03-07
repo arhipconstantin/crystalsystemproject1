@@ -342,5 +342,5 @@ plot(sarima.Data1EH)
 #MAPE 581
 
 #Very high MAPE for year 2005
-
+#I assume more analysis is needed to find the best predictive model for this dataset
 
